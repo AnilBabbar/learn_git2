@@ -1,1 +1,3 @@
 Hello Gugi this is a GIT test file
+To be aded to Stash!:wq
+
