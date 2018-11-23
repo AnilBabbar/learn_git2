@@ -1,3 +1,4 @@
 Hello Gugi this is a GIT test file
 To be aded to Stash!:wq
+Now changed to test remote
 
